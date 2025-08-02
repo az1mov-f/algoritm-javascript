@@ -1,5 +1,5 @@
 // let number = 20;
-// let string = "20";
+// let string = "20";.
 
 // console.log(number + string);
 // console.log(typeof (number + string));
